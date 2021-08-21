@@ -24,7 +24,6 @@ export default function App() {
       meaning = "Emoji Not Found";
     }
     setEmojiMeaning(meaning);
-    // console.log(meaning)
   }
 
   function clickEventHandler(emoji) {
