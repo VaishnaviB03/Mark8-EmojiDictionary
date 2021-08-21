@@ -8,7 +8,10 @@ var emojipedia = {
   "😂": "Laughing Face ",
   "🧡": "Heart",
   "😴": "Sleepy",
-  "👍": "Thumb's Up"
+  "👍": "Thumb's Up",
+  "🤗": "Hugging Face",
+  "😉": "Winking face",
+  "✌": "Victory Hand"
 };
 
 var input = Object.keys(emojipedia);
