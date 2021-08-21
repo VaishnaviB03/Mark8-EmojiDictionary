@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: ghostwhite;
+  justify-content: center;
+}
+
+h1 {
+  padding: 2rem;
+  color: maroon;
+  text-decoration: underline;
+}
+
+input {
+  padding: 0.5rem;
+}
+
+h3 {
+  color: brown;
+}
